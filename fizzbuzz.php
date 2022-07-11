@@ -61,3 +61,5 @@ class fizzbuzz
         return $number % $multi == 0;
     }
 }
+
+new fizzbuzz();
